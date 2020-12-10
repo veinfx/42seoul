@@ -1,0 +1,6 @@
+Credentials cache: API:BF478036-AB2A-4568-9B16-2513E22C5E3D
+        Principal: sungwpar@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+Nov 18 21:32:20 2020  Nov 19 07:32:20 2020  FPRIA  krbtgt/42SEOUL.KR@42SEOUL.KR
+Nov 18 21:32:21 2020  Nov 19 07:32:20 2020  FPA    HTTP/student-storage.42seoul.kr@42SEOUL.KR
